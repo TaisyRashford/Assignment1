@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BETTERLINEWATERAPP", "BETTERLINEWATERAPP.vbproj", "{5CF75157-9C96-4F7C-AF67-F8214191D5DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp3", "..\WinFormsApp3\WinFormsApp3.csproj", "{BC41371E-ED36-43E0-9F98-C04B43A49717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CF75157-9C96-4F7C-AF67-F8214191D5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF75157-9C96-4F7C-AF67-F8214191D5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF75157-9C96-4F7C-AF67-F8214191D5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF75157-9C96-4F7C-AF67-F8214191D5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC41371E-ED36-43E0-9F98-C04B43A49717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC41371E-ED36-43E0-9F98-C04B43A49717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC41371E-ED36-43E0-9F98-C04B43A49717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC41371E-ED36-43E0-9F98-C04B43A49717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6C71E85-2007-4E20-8D7F-20EE9F534A81}
+	EndGlobalSection
+EndGlobal
